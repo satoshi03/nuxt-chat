@@ -2,6 +2,8 @@
 
 > Browser based chat app via Firebase in JavaScript with NuxtJS.
 
+![demo](https://media.giphy.com/media/7vABfZM8rZyG1qaLES/giphy.gif)
+
 ## Build Setup
 
 ``` bash

@@ -2,7 +2,11 @@
 
 > Browser based chat app via Firebase in JavaScript with NuxtJS.
 
-![demo](https://media.giphy.com/media/7vABfZM8rZyG1qaLES/giphy.gif)
+![demo](https://media.giphy.com/media/vN2XedFZXKHQB63Euh/giphy.gif)
+
+You can try demo site on bellow link.
+
+[Demo Site](https://nuxt-simple-chat-llwjyc6y7.now.sh/)
 
 ## Build Setup
 

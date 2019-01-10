@@ -1,0 +1,5 @@
+{
+  "version": 2,
+  "name": "nuxt-simple-chat",
+  "builds": [{ "src": "package.json", "use": "@now/static-build"  }]
+}

@@ -4,9 +4,8 @@
 
 ![demo](https://media.giphy.com/media/vN2XedFZXKHQB63Euh/giphy.gif)
 
-You can try demo site on bellow link.
+You can try [demo site](https://nuxt-simple-chat-llwjyc6y7.now.sh/).
 
-[Demo Site](https://nuxt-simple-chat-llwjyc6y7.now.sh/)
 
 ## Build Setup
 
